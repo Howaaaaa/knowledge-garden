@@ -11,13 +11,11 @@ title::  简悦 + Logseq + Github Page 无代码全自动化知识管理发布�
 # Annoations
 
 collapsed:: false
-	- collapsed:: true
-	  #+BEGIN_QUOTE
-	    ```
-	  cd /<your path>/knowledge-garden
-	    git add .
-	    git commit -m "auto save:Update some logseq pages."
-	    git push origin maincrontab
+	- #+cd /<your path>/knowledge-garden
+	  git add .
+	  git commit -m "auto save: Update some logseq pages."
+	  git push origin maincrontab
+	  ush origin maincrontab
 	  ``` 
 	    #+END_QUOTE
 	    collapsed:: true
