@@ -12,6 +12,51 @@ collapsed:: false
 	    #+END_QUOTE
 	    collapsed:: true
 		- Note
+		  collapsed:: true
+			- #+BEGIN_QUOTE
+			  somehappy 
+			  #+END_QUOTE
+			  collapsed:: false
+	- collapsed:: true
+	  #+BEGIN_QUOTE
+	    分类标签系统 
+	    #+END_QUOTE
+	    collapsed:: true
+		- Note
+		  collapsed:: true
+			- #+BEGIN_QUOTE
+			   
+			  #+END_QUOTE
+			  collapsed:: false
+	- collapsed:: true
+	  #+BEGIN_QUOTE
+	    图形 AI 和强化学习 AI。 
+	    #+END_QUOTE
+	    collapsed:: true
+		- Note
+		  collapsed:: true
+			- #+BEGIN_QUOTE
+			  some happy 
+			  #+END_QUOTE
+			  collapsed:: false
+	- collapsed:: true
+	  #+BEGIN_QUOTE
+	    GAC 在 2018 年 12 月推出 pocket galley, 这个 AR 虚拟美术馆是 Google 用自己的 ARCore 以及苹果的 ARKit 在移动装备上所提供的 AR 展示技术，号称可以把大师作品放进口袋里随身携带 
+	    #+END_QUOTE
+	    collapsed:: true
+		- Note
+		  collapsed:: true
+			- #+BEGIN_QUOTE
+			  a little bit sad 
+			  #+END_QUOTE
+			  collapsed:: false
+	- collapsed:: true
+	  #+BEGIN_QUOTE
+	    t-SNE 数据可视化算法 
+	    #+END_QUOTE
+	    collapsed:: true
+		- Note
+		  collapsed:: true
 			- #+BEGIN_QUOTE
 			   
 			  #+END_QUOTE
