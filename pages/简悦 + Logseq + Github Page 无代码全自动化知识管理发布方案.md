@@ -6,7 +6,8 @@ title::  简悦 + Logseq + Github Page 无代码全自动化知识管理发布�
 	- Date
 		- 2023年02月17日 09:37:22
 	- Desc
-		- 在简悦标注，自动生成符合 Logseq 的标注文件，然后发布到 Github Page 的无代码化全自动方案。感谢 @tiensonqin 提供了这么棒的双链笔记 Logseq，得益于 @pengx17 发布的 Logseq Publish GitHub Action，可以非常…
+		- 在简悦标注，自动生成符合 Logseq 的标注文件，然后发布到 Github Page 的无代码化全自动方案。
+		  感谢 @tiensonqin 提供了这么棒的双链笔记 Logseq，得益于 @pengx17 发布的 Logseq Publish GitHub Action，可以非常…
 # Annoations
 
 collapsed:: false
